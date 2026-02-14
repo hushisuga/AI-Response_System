@@ -12,7 +12,8 @@ This project demonstrates a **rule-based AI workflow** that processes customer m
 The workflow is deterministic, reliable, and designed to integrate a real LLM in the future without major changes.  
 
 This project was developed as a practical assignment to showcase **applied AI engineering and workflow design**, without using external APIs.
-
+## DEMO VEDIO 
+[LINK](https://www.loom.com/share/bad52dbce4eb4857a9e6765573cbf10e)
 ## Folder Structure & Files
 
 The project is organized as follows:
